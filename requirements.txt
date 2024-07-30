@@ -1,5 +1,7 @@
-nltk
-scikit-learn
+
 flask
 sklearn
 stopwords
+numpy==2.0.1
+scikit-learn==1.5.1
+nltk==3.7
